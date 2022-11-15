@@ -1,0 +1,1554 @@
+The particle is of type: P
+The initial coordinates of the particle P are:
+The x-coordinate: 10
+The y-coordinate: 15
+The particle is of type: N
+The initial coordinates of the particle N are:
+The x-coordinate: 10
+The y-coordinate: 9
+The particle is of type: E
+The initial coordinates of the particle E are:
+The x-coordinate: 7
+The y-coordinate: 12
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o P o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o E o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o N o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+ 
+This is Simulation number: 1
+The direction of P is: D
+The direction of N is: U
+The direction of E is: R
+The particle's P new coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 14
+The velocity at the new coordinates is: 1 
+The particle's N new coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 10
+The velocity at the new coordinates is: 1 
+The particle's E new coordinates and the associated velocity are: 
+The x-coordinate: 8
+The y-coordinate: 12
+The velocity at the new coordinates is: 1 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o P o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o E o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o N o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+ 
+This is Simulation number: 2
+The direction of P is: D
+The direction of N is: U
+The direction of E is: R
+The particle's P new coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 13
+The velocity at the new coordinates is: 1 
+The particle's N new coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 11
+The velocity at the new coordinates is: 1 
+The particle's E new coordinates and the associated velocity are: 
+The x-coordinate: 9
+The y-coordinate: 12
+The velocity at the new coordinates is: 1 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o P o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o E o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o N o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+ 
+This is Simulation number: 3
+The direction of P is: D
+The direction of N is: U
+The direction of E is: R
+The particle's P new coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 12
+The velocity at the new coordinates is: 1 
+The particle's N new coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 12
+The velocity at the new coordinates is: 1 
+The particle's E new coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 12
+The velocity at the new coordinates is: 1 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o ENP o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+ 
+This is Simulation number: 4
+The direction of P is: D
+The direction of N is: U
+The direction of E is: R
+The particle's P new coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 11
+The velocity at the new coordinates is: 1 
+The particle's N new coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 13
+The velocity at the new coordinates is: 1 
+The particle's E new coordinates and the associated velocity are: 
+The x-coordinate: 11
+The y-coordinate: 12
+The velocity at the new coordinates is: 1 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o N o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o E o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o P o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+ 
+This is Simulation number: 5
+The direction of P is: D
+The direction of N is: U
+The direction of E is: R
+The particle's P new coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 10
+The velocity at the new coordinates is: 1 
+The particle's N new coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 14
+The velocity at the new coordinates is: 1 
+The particle's E new coordinates and the associated velocity are: 
+The x-coordinate: 12
+The y-coordinate: 12
+The velocity at the new coordinates is: 1 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o N o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o E o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o P o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+ 
+This is Simulation number: 6
+The direction of P is: D
+The direction of N is: U
+The direction of E is: R
+The particle's P new coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 9
+The velocity at the new coordinates is: 1 
+The particle's N new coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 15
+The velocity at the new coordinates is: 1 
+The particle's E new coordinates and the associated velocity are: 
+The x-coordinate: 13
+The y-coordinate: 12
+The velocity at the new coordinates is: 1 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o N o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o E o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o P o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+ 
+This is Simulation number: 7
+The direction of P is: D
+The direction of N is: U
+The direction of E is: R
+The particle's P new coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 8
+The velocity at the new coordinates is: 1 
+The particle's N new coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 16
+The velocity at the new coordinates is: 1 
+The particle's E new coordinates and the associated velocity are: 
+The x-coordinate: 14
+The y-coordinate: 12
+The velocity at the new coordinates is: 1 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o N o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o E o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o P o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+ 
+This is Simulation number: 8
+The direction of P is: D
+The direction of N is: U
+The direction of E is: R
+The particle's P new coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 7
+The velocity at the new coordinates is: 1 
+The particle's N new coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 17
+The velocity at the new coordinates is: 1 
+The particle's E new coordinates and the associated velocity are: 
+The x-coordinate: 15
+The y-coordinate: 12
+The velocity at the new coordinates is: 1 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o N o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o E o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o P o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+ 
+This is Simulation number: 9
+The direction of P is: D
+The direction of N is: U
+The direction of E is: R
+The particle's P new coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 6
+The velocity at the new coordinates is: 1 
+The particle's N new coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 18
+The velocity at the new coordinates is: 1 
+The particle's E new coordinates and the associated velocity are: 
+The x-coordinate: 16
+The y-coordinate: 12
+The velocity at the new coordinates is: 1 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o N o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o E o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o P o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+ 
+This is Simulation number: 10
+The direction of P is: D
+The direction of N is: U
+The direction of E is: R
+The particle's P new coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 5
+The velocity at the new coordinates is: 1 
+The particle's N new coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 19
+The velocity at the new coordinates is: 1 
+The particle's E new coordinates and the associated velocity are: 
+The x-coordinate: 17
+The y-coordinate: 12
+The velocity at the new coordinates is: 1 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o N o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o E o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o P o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+ 
+This is Simulation number: 11
+The direction of P is: D
+The direction of N is: U
+The direction of E is: R
+The particle's P new coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 4
+The velocity at the new coordinates is: 1 
+The particle's N new coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 20
+The velocity at the new coordinates is: 1 
+The particle's E new coordinates and the associated velocity are: 
+The x-coordinate: 18
+The y-coordinate: 12
+The velocity at the new coordinates is: 1 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o N o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o E o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o P o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+ 
+This is Simulation number: 12
+The direction of P is: D
+The direction of N is: U
+The direction of E is: R
+The particle's P new coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 3
+The velocity at the new coordinates is: 1 
+The particle's N new coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 21
+The velocity at the new coordinates is: 1 
+The particle's E new coordinates and the associated velocity are: 
+The x-coordinate: 19
+The y-coordinate: 12
+The velocity at the new coordinates is: 1 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o N o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o E o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o P o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+ 
+This is Simulation number: 13
+The direction of P is: D
+The direction of N is: U
+The direction of E is: R
+The particle's P new coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 2
+The velocity at the new coordinates is: 1 
+The particle's N new coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 22
+The velocity at the new coordinates is: 1 
+The particle's E new coordinates and the associated velocity are: 
+The x-coordinate: 20
+The y-coordinate: 12
+The velocity at the new coordinates is: 1 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o N o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o E o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o P o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+ 
+This is Simulation number: 14
+The direction of P is: D
+The direction of N is: U
+The direction of E is: R
+The particle's P new coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 1
+The velocity at the new coordinates is: 1 
+The particle's N new coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 23
+The velocity at the new coordinates is: 1 
+The particle's E new coordinates and the associated velocity are: 
+The x-coordinate: 21
+The y-coordinate: 12
+The velocity at the new coordinates is: 1 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o N o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o E o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o P o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+ 
+This is Simulation number: 15
+The direction of P is: D
+The P is reflected.
+The direction of N is: U
+The direction of E is: R
+The particle's P new coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 1
+The velocity at the new coordinates is: 1 
+The particle's N new coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 24
+The velocity at the new coordinates is: 1 
+The particle's E new coordinates and the associated velocity are: 
+The x-coordinate: 22
+The y-coordinate: 12
+The velocity at the new coordinates is: 1 
+o o o o o o o o o o N o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o E o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o P o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+ 
+This is Simulation number: 16
+The direction of P is: D
+The P is reflected.
+The direction of N is: U
+The direction of E is: R
+The particle's P new coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 1
+The velocity at the new coordinates is: 1 
+The particle's N new coordinates and the associated velocity are: 
+N  either left the chamber or is originally outside bounds.
+The particle's E new coordinates and the associated velocity are: 
+The x-coordinate: 23
+The y-coordinate: 12
+The velocity at the new coordinates is: 1 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o E o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o P o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+ 
+This is Simulation number: 17
+The direction of P is: D
+The P is reflected.
+The direction of N is: U
+N has left the chamber!
+The direction of E is: R
+The particle's P new coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 1
+The velocity at the new coordinates is: 1 
+The particle's N new coordinates and the associated velocity are: 
+N  either left the chamber or is originally outside bounds.
+The particle's E new coordinates and the associated velocity are: 
+The x-coordinate: 24
+The y-coordinate: 12
+The velocity at the new coordinates is: 1 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o E o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o P o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+ 
+This is Simulation number: 18
+The direction of P is: D
+The P is reflected.
+The direction of N is: U
+N has left the chamber!
+The direction of E is: R
+The particle's P new coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 1
+The velocity at the new coordinates is: 1 
+The particle's N new coordinates and the associated velocity are: 
+N  either left the chamber or is originally outside bounds.
+The particle's E new coordinates and the associated velocity are: 
+The x-coordinate: 25
+The y-coordinate: 12
+The velocity at the new coordinates is: 1 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o E o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o P o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+ 
+This is Simulation number: 19
+The direction of P is: D
+The P is reflected.
+The direction of N is: U
+N has left the chamber!
+The direction of E is: R
+The particle's P new coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 1
+The velocity at the new coordinates is: 1 
+The particle's N new coordinates and the associated velocity are: 
+N  either left the chamber or is originally outside bounds.
+The particle's E new coordinates and the associated velocity are: 
+The x-coordinate: 26
+The y-coordinate: 12
+The velocity at the new coordinates is: 1 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o E o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o P o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+ 
+This is Simulation number: 20
+The direction of P is: D
+The P is reflected.
+The direction of N is: U
+N has left the chamber!
+The direction of E is: R
+The particle's P new coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 1
+The velocity at the new coordinates is: 1 
+The particle's N new coordinates and the associated velocity are: 
+N  either left the chamber or is originally outside bounds.
+The particle's E new coordinates and the associated velocity are: 
+The x-coordinate: 27
+The y-coordinate: 12
+The velocity at the new coordinates is: 1 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o E o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o P o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+ 
+This is Simulation number: 21
+The direction of P is: D
+The P is reflected.
+The direction of N is: U
+N has left the chamber!
+The direction of E is: R
+The particle's P new coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 1
+The velocity at the new coordinates is: 1 
+The particle's N new coordinates and the associated velocity are: 
+N  either left the chamber or is originally outside bounds.
+The particle's E new coordinates and the associated velocity are: 
+The x-coordinate: 28
+The y-coordinate: 12
+The velocity at the new coordinates is: 1 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o E o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o P o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+ 
+This is Simulation number: 22
+The direction of P is: D
+The P is reflected.
+The direction of N is: U
+N has left the chamber!
+The direction of E is: R
+The particle's P new coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 1
+The velocity at the new coordinates is: 1 
+The particle's N new coordinates and the associated velocity are: 
+N  either left the chamber or is originally outside bounds.
+The particle's E new coordinates and the associated velocity are: 
+The x-coordinate: 29
+The y-coordinate: 12
+The velocity at the new coordinates is: 1 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o E o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o P o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+ 
+This is Simulation number: 23
+The direction of P is: D
+The P is reflected.
+The direction of N is: U
+N has left the chamber!
+The direction of E is: R
+The particle's P new coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 1
+The velocity at the new coordinates is: 1 
+The particle's N new coordinates and the associated velocity are: 
+N  either left the chamber or is originally outside bounds.
+The particle's E new coordinates and the associated velocity are: 
+The x-coordinate: 30
+The y-coordinate: 12
+The velocity at the new coordinates is: 1 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o E o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o P o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+ 
+This is Simulation number: 24
+The direction of P is: D
+The P is reflected.
+The direction of N is: U
+N has left the chamber!
+The direction of E is: R
+The particle's P new coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 1
+The velocity at the new coordinates is: 1 
+The particle's N new coordinates and the associated velocity are: 
+N  either left the chamber or is originally outside bounds.
+The particle's E new coordinates and the associated velocity are: 
+The x-coordinate: 31
+The y-coordinate: 12
+The velocity at the new coordinates is: 1 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o E o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o P o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+ 
+This is Simulation number: 25
+The direction of P is: D
+The P is reflected.
+The direction of N is: U
+N has left the chamber!
+The direction of E is: R
+The particle's P new coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 1
+The velocity at the new coordinates is: 1 
+The particle's N new coordinates and the associated velocity are: 
+N  either left the chamber or is originally outside bounds.
+The particle's E new coordinates and the associated velocity are: 
+The x-coordinate: 32
+The y-coordinate: 12
+The velocity at the new coordinates is: 1 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o E o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o P o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+ 
+This is Simulation number: 26
+The direction of P is: D
+The P is reflected.
+The direction of N is: U
+N has left the chamber!
+The direction of E is: R
+The particle's P new coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 1
+The velocity at the new coordinates is: 1 
+The particle's N new coordinates and the associated velocity are: 
+N  either left the chamber or is originally outside bounds.
+The particle's E new coordinates and the associated velocity are: 
+The x-coordinate: 33
+The y-coordinate: 12
+The velocity at the new coordinates is: 1 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o E o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o P o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+ 
+This is Simulation number: 27
+The direction of P is: D
+The P is reflected.
+The direction of N is: U
+N has left the chamber!
+The direction of E is: R
+The particle's P new coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 1
+The velocity at the new coordinates is: 1 
+The particle's N new coordinates and the associated velocity are: 
+N  either left the chamber or is originally outside bounds.
+The particle's E new coordinates and the associated velocity are: 
+The x-coordinate: 34
+The y-coordinate: 12
+The velocity at the new coordinates is: 1 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o E o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o P o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+ 
+This is Simulation number: 28
+The direction of P is: D
+The P is reflected.
+The direction of N is: U
+N has left the chamber!
+The direction of E is: R
+The particle's P new coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 1
+The velocity at the new coordinates is: 1 
+The particle's N new coordinates and the associated velocity are: 
+N  either left the chamber or is originally outside bounds.
+The particle's E new coordinates and the associated velocity are: 
+The x-coordinate: 35
+The y-coordinate: 12
+The velocity at the new coordinates is: 1 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o E o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o P o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+ 
+This is Simulation number: 29
+The direction of P is: D
+The P is reflected.
+The direction of N is: U
+N has left the chamber!
+The direction of E is: R
+The particle's P new coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 1
+The velocity at the new coordinates is: 1 
+The particle's N new coordinates and the associated velocity are: 
+N  either left the chamber or is originally outside bounds.
+The particle's E new coordinates and the associated velocity are: 
+The x-coordinate: 36
+The y-coordinate: 12
+The velocity at the new coordinates is: 1 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o E o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o P o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+ 
+This is Simulation number: 30
+The direction of P is: D
+The P is reflected.
+The direction of N is: U
+N has left the chamber!
+The direction of E is: R
+The particle's P new coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 1
+The velocity at the new coordinates is: 1 
+The particle's N new coordinates and the associated velocity are: 
+N  either left the chamber or is originally outside bounds.
+The particle's E new coordinates and the associated velocity are: 
+The x-coordinate: 37
+The y-coordinate: 12
+The velocity at the new coordinates is: 1 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o E o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o P o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+ 
+This is Simulation number: 31
+The direction of P is: D
+The P is reflected.
+The direction of N is: U
+N has left the chamber!
+The direction of E is: R
+The particle's P new coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 1
+The velocity at the new coordinates is: 1 
+The particle's N new coordinates and the associated velocity are: 
+N  either left the chamber or is originally outside bounds.
+The particle's E new coordinates and the associated velocity are: 
+The x-coordinate: 38
+The y-coordinate: 12
+The velocity at the new coordinates is: 1 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o E o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o P o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+ 
+This is Simulation number: 32
+The direction of P is: D
+The P is reflected.
+The direction of N is: U
+N has left the chamber!
+The direction of E is: R
+The particle's P new coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 1
+The velocity at the new coordinates is: 1 
+The particle's N new coordinates and the associated velocity are: 
+N  either left the chamber or is originally outside bounds.
+The particle's E new coordinates and the associated velocity are: 
+The x-coordinate: 39
+The y-coordinate: 12
+The velocity at the new coordinates is: 1 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o E 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o P o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+ 
+This is Simulation number: 33
+The direction of P is: D
+The P is reflected.
+The direction of N is: U
+N has left the chamber!
+The direction of E is: R
+E is trapped on the chamber's wall!
+The particle's P new coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 1
+The velocity at the new coordinates is: 1 
+The particle's N new coordinates and the associated velocity are: 
+N  either left the chamber or is originally outside bounds.
+The particle's E new coordinates and the associated velocity are: 
+The x-coordinate: 39
+The y-coordinate: 12
+The velocity at the new coordinates is: 1 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o E 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o P o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+ 
+This is Simulation number: 34
+The direction of P is: D
+The P is reflected.
+The direction of N is: U
+N has left the chamber!
+The direction of E is: R
+E is trapped on the chamber's wall!
+The particle's P new coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 1
+The velocity at the new coordinates is: 1 
+The particle's N new coordinates and the associated velocity are: 
+N  either left the chamber or is originally outside bounds.
+The particle's E new coordinates and the associated velocity are: 
+The x-coordinate: 39
+The y-coordinate: 12
+The velocity at the new coordinates is: 1 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o E 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o P o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+ 
+This is Simulation number: 35
+The direction of P is: D
+The P is reflected.
+The direction of N is: U
+N has left the chamber!
+The direction of E is: R
+E is trapped on the chamber's wall!
+The particle's P new coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 1
+The velocity at the new coordinates is: 1 
+The particle's N new coordinates and the associated velocity are: 
+N  either left the chamber or is originally outside bounds.
+The particle's E new coordinates and the associated velocity are: 
+The x-coordinate: 39
+The y-coordinate: 12
+The velocity at the new coordinates is: 1 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o E 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o P o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+ 
+This is Simulation number: 36
+The direction of P is: D
+The P is reflected.
+The direction of N is: U
+N has left the chamber!
+The direction of E is: R
+E is trapped on the chamber's wall!
+The particle's P new coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 1
+The velocity at the new coordinates is: 1 
+The particle's N new coordinates and the associated velocity are: 
+N  either left the chamber or is originally outside bounds.
+The particle's E new coordinates and the associated velocity are: 
+The x-coordinate: 39
+The y-coordinate: 12
+The velocity at the new coordinates is: 1 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o E 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o P o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+ 

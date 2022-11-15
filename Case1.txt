@@ -1,0 +1,407 @@
+The particle is of type: P
+The initial coordinates of the particle are: 
+The x-coordinate: 10
+The y-coordinate: 15
+The particle is of type: N
+The initial coordinates of the particle are: 
+The x-coordinate: 10
+The y-coordinate: 9
+The particle is of type: E
+The initial coordinates of the particle are: 
+The x-coordinate: 7
+The y-coordinate: 12
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o P o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o E o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o N o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+ 
+The direction of Pis: D
+The direction of Nis: U
+The direction of Eis: R
+The particle'sPnew coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 14
+The velocity at the new coordinates1 
+The particle'sNnew coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 10
+The velocity at the new coordinates1 
+The particle'sEnew coordinates and the associated velocity are: 
+The x-coordinate: 8
+The y-coordinate: 12
+The velocity at the new coordinates1 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o P o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o E o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o N o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+ 
+The direction of Pis: D
+The direction of Nis: U
+The direction of Eis: R
+The particle'sPnew coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 13
+The velocity at the new coordinates1 
+The particle'sNnew coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 11
+The velocity at the new coordinates1 
+The particle'sEnew coordinates and the associated velocity are: 
+The x-coordinate: 9
+The y-coordinate: 12
+The velocity at the new coordinates1 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o P o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o E o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o N o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+ 
+The direction of Pis: D
+The direction of Nis: U
+The direction of Eis: R
+The particle'sPnew coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 12
+The velocity at the new coordinates1 
+The particle'sNnew coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 12
+The velocity at the new coordinates1 
+The particle'sEnew coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 12
+The velocity at the new coordinates1 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o ENP o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+ 
+The direction of Pis: D
+The direction of Nis: U
+The direction of Eis: R
+The particle'sPnew coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 11
+The velocity at the new coordinates1 
+The particle'sNnew coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 13
+The velocity at the new coordinates1 
+The particle'sEnew coordinates and the associated velocity are: 
+The x-coordinate: 11
+The y-coordinate: 12
+The velocity at the new coordinates1 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o N o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o E o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o P o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+ 
+The direction of Pis: D
+The direction of Nis: U
+The direction of Eis: R
+The particle'sPnew coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 10
+The velocity at the new coordinates1 
+The particle'sNnew coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 14
+The velocity at the new coordinates1 
+The particle'sEnew coordinates and the associated velocity are: 
+The x-coordinate: 12
+The y-coordinate: 12
+The velocity at the new coordinates1 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o N o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o E o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o P o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+ 
+The direction of Pis: D
+The direction of Nis: U
+The direction of Eis: R
+The particle'sPnew coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 9
+The velocity at the new coordinates1 
+The particle'sNnew coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 15
+The velocity at the new coordinates1 
+The particle'sEnew coordinates and the associated velocity are: 
+The x-coordinate: 13
+The y-coordinate: 12
+The velocity at the new coordinates1 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o N o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o E o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o P o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+ 
+The direction of Pis: D
+The direction of Nis: U
+The direction of Eis: R
+The particle'sPnew coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 8
+The velocity at the new coordinates1 
+The particle'sNnew coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 16
+The velocity at the new coordinates1 
+The particle'sEnew coordinates and the associated velocity are: 
+The x-coordinate: 14
+The y-coordinate: 12
+The velocity at the new coordinates1 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o N o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o E o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o P o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+ 
+The direction of Pis: D
+The direction of Nis: U
+The direction of Eis: R
+The particle'sPnew coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 7
+The velocity at the new coordinates1 
+The particle'sNnew coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 17
+The velocity at the new coordinates1 
+The particle'sEnew coordinates and the associated velocity are: 
+The x-coordinate: 15
+The y-coordinate: 12
+The velocity at the new coordinates1 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o N o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o E o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o P o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+ 
+The direction of Pis: D
+The direction of Nis: U
+The direction of Eis: R
+The particle'sPnew coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 6
+The velocity at the new coordinates1 
+The particle'sNnew coordinates and the associated velocity are: 
+The x-coordinate: 10
+The y-coordinate: 18
+The velocity at the new coordinates1 
+The particle'sEnew coordinates and the associated velocity are: 
+The x-coordinate: 16
+The y-coordinate: 12
+The velocity at the new coordinates1 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o N o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o E o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o P o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+ 
